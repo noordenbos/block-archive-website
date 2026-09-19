@@ -1,1 +1,1 @@
-{"schema_version":1,"channel":"preview","note":"Desktop installers are in release testing. The source version is available now.","downloads":[]}
+{"schema_version":1,"channel":"preview","note":"Desktop builds have passed automated tests on Mac, Windows and Linux. Public installers await signing and release verification; the source version is available now.","downloads":[]}
